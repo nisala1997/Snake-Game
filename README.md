@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=header&text=Snake%20Game&fontSize=60)
-
-
-Counting Bars using Image Processing is a technique that utilizes computer vision algorithms to automatically count the number of bars present in an image. It involves steps such as image preprocessing, bar detection, bar counting, and output visualization. This approach provides an efficient and automated solution for tasks like inventory management and quality control.
+    Snake Game is a classic arcade game where the player controls a growing snake on a bordered playing field. The objective is to guide the snake🐍 to eat food🍔 items, avoid collisions with the snake's body and the boundaries, and score as many points as possible. The game ends when the snake collides with itself or the boundaries. It's a simple and addictive game that tests the player's reflexes and strategic thinking.
 
 <h2>Screenshots</h2>
   <body>

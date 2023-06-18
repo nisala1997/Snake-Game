@@ -10,22 +10,17 @@ Snake Game is a classic arcade game where the player controls a growing snake on
     </body>
 
 # Project Requirements
-<li>OpenCV <br>
-
-  
-    pip install opencv-python
+<li>JDK <br>
+     
+  Click Here Download [JDK-20](https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe (sha256))
     
 </body>
-  <li>Matplotlib <br>
+  <li>Intellij IDEA<br>
   
   
-    pip install matplotlib
+  Download [Intellij IDEA](https://www.jetbrains.com/idea/download/?var=1&section=windows)
     
 </body>
-<li>Tesseract ocr engine <br>
-  
-  
-    pip install numpy
     
     
   ![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=footer)

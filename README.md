@@ -7,7 +7,7 @@ Snake Game is a classic arcade game where the player controls a growing snake on
 
 <h2>Processing Images</h2>
   <body>
-<img src="/Figure_1.png">
+<img src="/Screenshot.png">
     </body>
 
 # Project Requirements
